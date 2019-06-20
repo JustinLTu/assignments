@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gandalf/workspace/NET_Sandbox/ASP_MVC/ASP_MVC/ASP_MVC.csproj": {}
+    "/Users/jh-lab-right-mid/workspace/NET_Sandbox/assignments/ASP_MVC/ASP_MVC.csproj": {}
   },
   "projects": {
-    "/Users/gandalf/workspace/NET_Sandbox/ASP_MVC/ASP_MVC/ASP_MVC.csproj": {
+    "/Users/jh-lab-right-mid/workspace/NET_Sandbox/assignments/ASP_MVC/ASP_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gandalf/workspace/NET_Sandbox/ASP_MVC/ASP_MVC/ASP_MVC.csproj",
+        "projectUniqueName": "/Users/jh-lab-right-mid/workspace/NET_Sandbox/assignments/ASP_MVC/ASP_MVC.csproj",
         "projectName": "ASP_MVC",
-        "projectPath": "/Users/gandalf/workspace/NET_Sandbox/ASP_MVC/ASP_MVC/ASP_MVC.csproj",
-        "packagesPath": "/Users/gandalf/.nuget/packages/",
-        "outputPath": "/Users/gandalf/workspace/NET_Sandbox/ASP_MVC/ASP_MVC/obj/",
+        "projectPath": "/Users/jh-lab-right-mid/workspace/NET_Sandbox/assignments/ASP_MVC/ASP_MVC.csproj",
+        "packagesPath": "/Users/jh-lab-right-mid/.nuget/packages/",
+        "outputPath": "/Users/jh-lab-right-mid/workspace/NET_Sandbox/assignments/ASP_MVC/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/gandalf/.nuget/NuGet/NuGet.Config"
+          "/Users/jh-lab-right-mid/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
