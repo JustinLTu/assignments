@@ -24,7 +24,8 @@ namespace ASP_MVC.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
-                        Price = 7.99M
+                        Rating = "R",
+                        Price = 7.99M                        
                     },
 
                     new Movie
@@ -32,6 +33,7 @@ namespace ASP_MVC.Models
                         Title = "Ghostbusters ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
+                        Rating = "PG",
                         Price = 8.99M
                     },
 
@@ -40,6 +42,7 @@ namespace ASP_MVC.Models
                         Title = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
+                        Rating = "PG",
                         Price = 9.99M
                     },
 
@@ -48,6 +51,7 @@ namespace ASP_MVC.Models
                         Title = "Star Wars",
                         ReleaseDate = DateTime.Parse("1977-5-25"),
                         Genre = "Space Opera",
+                        Rating = "PG",
                         Price = 10.99M
                     }
                 );

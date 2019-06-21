@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{B792031B-B852-4D0E-9DE0-727AF2A13501}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/MovieGenreViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MoviesController.cs">
     <Files>
       <File FileName="Startup.cs" Line="62" Column="73" />
-      <File FileName="Controllers/MoviesController.cs" />
-      <File FileName="Models/MovieGenreViewModel.cs" Line="1" Column="15" />
-      <File FileName="Views/Movies/Edit.cshtml" Line="33" Column="63" NotebookId="1" />
-      <File FileName="Views/Movies/Index.cshtml" Line="13" Column="61" NotebookId="1" />
+      <File FileName="Controllers/MoviesController.cs" Line="169" Column="45" />
+      <File FileName="Models/MovieGenreViewModel.cs" Line="1" Column="1" />
+      <File FileName="Models/Movie.cs" Line="23" Column="24" />
+      <File FileName="Views/Movies/Edit.cshtml" Line="35" Column="19" NotebookId="1" />
+      <File FileName="Views/Movies/Index.cshtml" Line="63" Column="18" NotebookId="1" />
+      <File FileName="Views/Movies/Create.cshtml" Line="32" Column="62" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ASP_MVC" expanded="True">
             <Node name="ASP_MVC" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="MovieGenreViewModel.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MoviesController.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Movies" expanded="True" />
               </Node>
